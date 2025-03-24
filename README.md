@@ -1,18 +1,15 @@
-# 🧬 Pathogen–Host Interaction Simulator
-
-This app allows you to search pathogen–host molecular interactions using public structural databases like:
-
-- 🔬 RCSB PDB
-
-You can:
-- Search proteins by virus/organism name
-- Visualize 3D structures interactively
-- Run docking simulations using AutoDock Vina
-
+---
+title: Pathogen–Host Interaction Simulator
+emoji: 🧬
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.31.1"
+app_file: app.py
+pinned: false
 ---
 
-## 🛠 How to Run Locally
+# 🧬 Pathogen–Host Interaction Simulator
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+This app lets you...
+
