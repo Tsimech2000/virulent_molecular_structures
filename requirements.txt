@@ -1,0 +1,16 @@
+
+---
+
+## ✅ 2. `requirements.txt`
+
+Make sure you include all necessary dependencies:
+
+```txt
+streamlit
+py3Dmol
+openbabel
+biopython
+pandas
+matplotlib
+requests
+
